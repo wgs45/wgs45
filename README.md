@@ -2,12 +2,6 @@
 
 **`DEVELOPER`**
 
-Introduction about me:
-
--> ㊔ Name: Warren G.S
--> ⎔ Hobby: Software Developer & DJ 
--> 🇮🇩 Country: Indonesia
-
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wgs45?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
