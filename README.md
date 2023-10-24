@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Warren G.S!
+# Hi there 👋, I'm Warren G.S!
 
 **`Software Developer`** **`DJ`**
 
