@@ -1,4 +1,4 @@
-# Hii there! I'm Warren G.S aka W45
+# Hi there 👋! I'm Warren G.S
 
 **`Software Developer & DJ`**
 
