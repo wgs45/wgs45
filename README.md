@@ -5,8 +5,11 @@
 <h1 align="left">Introduction</h1>
 <li>
    <ol>Name: ㊔ Warren G.S </ol>
+</li>
+<li>
    <ol>Country: Indonesia🇮🇩 </ol>
 </li>
+
 
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
