@@ -5,7 +5,6 @@
 <h1 align="left">Introduction</h1>
 <li>
    <ol>Name: ㊔ Warren G.S </ol>
-   </br>
    <ol>Country: Indonesia🇮🇩 </ol>
 </li>
 
