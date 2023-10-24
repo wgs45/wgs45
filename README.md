@@ -7,7 +7,7 @@
    <ol>Name: ㊔ Warren G.S </ol>
 </li>
 <li>
-   <ol>Country: Indonesia🇮🇩 </ol>
+   <ol>Country: Indonesia 🇮🇩 </ol>
 </li>
 
 
@@ -87,7 +87,5 @@
 # 📊 Stats
 
 ![wgs45's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=synthwave)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
