@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`DJ`**
 
-<h1 align="left">About me</h1>
+<h1 align="left">📝 About me</h1>
 <li>
    <ol>Name: ㊔ Warren G.S </ol>
 </li>
