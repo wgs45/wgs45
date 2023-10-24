@@ -1,6 +1,6 @@
 # Hi there 👋! I'm Warren G.S
 
-**`Developer`**
+**`Software Developer`** **`DJ`**
 
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
