@@ -13,7 +13,7 @@ Hii!!
 
 ---
 
-### 🧬 Languages
+# 🧬 Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -35,7 +35,7 @@ Hii!!
 
 ---
 
-### 💿 Operating Systems
+# 💿 Operating Systems
 
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -49,7 +49,7 @@ Hii!!
 
 ---
 
-### ⚙️ Hardware
+# ⚙️ Hardware
 
 <img align="left" alt="Aarch64" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" />
 <br />
