@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`DJ`**
 
-<h1 align="left>Introduction</h1>
+<h1 align="left">Introduction</h1>
 
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
