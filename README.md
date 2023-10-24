@@ -3,7 +3,8 @@
 **`Software Developer`** **`DJ`**
 
 <h1 align="left">Introduction</h1>
-<p>Name: Warren G.S</p>
+<p>-> Name: ㊔ Warren G.S </p>
+<p>-> Country: Indonesia🇮🇩 </p>
 
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
