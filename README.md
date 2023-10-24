@@ -83,8 +83,18 @@
 
 #
 
-# 📊 Stats
+---
 
-![wgs45's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=synthwave)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45&layout=donut-vertical)](https://github.com/wgs45/github-readme-stats)
+# 📊 Profile Stats
 
-#
+![wgs45's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=synthwave)
+
+# 
+
+---
+
+# 📊 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45&layout=compact)
+
+# 
