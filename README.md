@@ -8,7 +8,7 @@
       <a href="https://github.com/wgs45?tab=repositories&sort=stargazers">
          <img alt="totalStars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wgs45?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://www.youtube.com/c/@warreng.s1018?sub_confirmation=1">
-         <img alt="youtubeSubscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@warreng.s1018?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtubeSubscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBaOK0n99ro2JMcAxtMizPg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    </p>
 
 ---
