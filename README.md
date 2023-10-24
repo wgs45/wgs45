@@ -1,8 +1,11 @@
 # Hi there 👋! I'm Warren G.S
 
-**`Software Developer & DJ`**
+**`DEVELOPER`**
 
-Hii!!
+Introduction about me:
+-> ㊔ Name: Warren G.S
+-> ⎔ Hobby: Software Developer & DJ 
+-> 🇮🇩 Country: Indonesia
 
    <p align="left">
       <a href="https://github.com/wgs45?tab=followers">
