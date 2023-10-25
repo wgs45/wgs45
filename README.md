@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Warren G.S!
 
+---
+
 **`Software Developer`** **`DJ`**
 
 <h1 align="left">📝 About me</h1>
