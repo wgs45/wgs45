@@ -53,8 +53,6 @@
 
 #
 
----
-
 # 🛠️ Tools
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -73,9 +71,7 @@
 
 ![wgs45's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=synthwave)
 
-# 
-
----
+#
 
 # 📊 Language Stats
 
