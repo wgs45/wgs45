@@ -2,7 +2,7 @@
 
 ---
 
-**`Software Developer`** **`DJ`**
+**`Front-End Developer`** **`Back-End Developer`** **`DJ`**
 
 <h1 align="left">📝 About me</h1>
 <li>
