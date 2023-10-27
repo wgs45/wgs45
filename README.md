@@ -9,7 +9,7 @@
    <ol>Name: ㊔ Warren G.S </ol>
 </li>
 <li>
-   <ol>Country: Indonesia 🇮🇩 </ol>
+   <ol>Citizenship: Indonesia 🇮🇩 </ol>
 </li>
 <li>
    <ol>Occupation: Student 👨‍🎓 </ol>
