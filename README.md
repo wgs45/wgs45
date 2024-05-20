@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+Preview...;" />
+</h1>
+
 # 🎲 [Introduction]
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Web Development, DevOps and more to come. I love to explore new technologies and apply them to solve real-world problems.
