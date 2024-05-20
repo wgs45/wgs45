@@ -23,11 +23,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI, Arduino"
 - Database: "MongoDB, Firebase, MySql"
 - Scripting: "Bash, Powershell"
-- Tools: "VsCode, Vercel, Git, Neovim"
+- Tools: "VsCode, Vercel, Git, Neovim, Tmux"
 ```
 <p align='left'>
   <img alt = "Iterm2" src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
-  <img alt = "Tmux" src = "https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
   <img alt = "VirtualBox" src = "https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   <img alt = "Vmware" src = "https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
     <img alt = "Apple" src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
