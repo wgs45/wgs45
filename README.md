@@ -20,9 +20,9 @@ I'm currently diving deeper into:
 - Java
 
 ## 📫 Get in Touch
-- **Email:** [your.email@example.com](-)
-- **LinkedIn:** [Your LinkedIn Profile](-)
-- **Twitter:** [@your_twitter_handle](-)
+- **Email:** [-](-)
+- **LinkedIn:** [-](-)
+- **Twitter:** [-](-)
 
 Feel free to reach out if you have any questions or just want to connect!
 
