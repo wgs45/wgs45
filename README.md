@@ -1,4 +1,4 @@
-# 🎲 [Hello]
+# 🎲 [Introduction]
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Web Development, DevOps and more to come. I love to explore new technologies and apply them to solve real-world problems.
 
