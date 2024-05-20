@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wgs45.wgs45)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Profile+Preview...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Profile+Preview...;" />
 </h1>
 
 # 🎲 [Introduction]
@@ -9,11 +9,13 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Web Development, DevOps and more to come. I love to explore new technologies and apply them to solve real-world problems.
 
 ## 🧬 [Experience & Tools]
-- **Languages:** HTML, CSS, Sass, Javascript, Python, C
-- **Frameworks:** ReactJS, ReactNative, NodeJS, MongoDB, Firebase, MySql, Bootstrap, Material-UI, Arduino
-- **Scripting:** Bash, Powershell
-- **Tools:** Git, Neovim
-  
+```c
+- Languages: "HTML, CSS, Sass, Javascript, Python, C"
+- Frameworks: "ReactJS, ReactNative, NodeJS, MongoDB, Firebase, MySql, Bootstrap, Material-UI, Arduino"
+- Scripting: "Bash, Powershell"
+- Tools: "Git, Neovim"
+```
+
 ## 🚀 [Projects]
 Here are a few highlights of my recent projects:
 - **[Coming soon](link-to-project):** Coming soon.
