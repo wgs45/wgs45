@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI, Arduino"
 - Database: "MongoDB, Firebase, MySql"
 - Scripting: "Bash, Powershell"
-- Tools: "VsCode, Git, Neovim"
+- Tools: "VsCode, Vercel, Git, Neovim"
 ```
 
 ## 🚀 [Projects]
