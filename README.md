@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Languages: "HTML, CSS, Sass, Javascript, Python, C"
 - Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI, Arduino"
 - Database: "MongoDB, Firebase, MySql"
-- Scripting: "Bash, Powershell"
+- Scripting: "Bash, Powershell, Shell"
 - Tools: "VsCode, Vercel, Git, Neovim, Tmux"
 ```
 <p align='left'>
