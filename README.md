@@ -61,8 +61,6 @@ Feel free to reach out if you have any questions or just want to connect!
 ## 📊 [GitHub Stats]
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wgs45&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=wgs45&theme=tokyonight)
 
 ## 📊 [Language Stats]
