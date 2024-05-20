@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wgs45.wgs45)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=120&duration=4000&lines=Profile+Preview...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=150&duration=4000&lines=Profile+Preview...;" />
 </h1>
 
 # 🎲 [Introduction]
