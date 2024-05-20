@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wgs45.wgs45)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+Preview..;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Profile+Preview...;" />
 </h1>
 
 # 🎲 [Introduction]
@@ -33,8 +33,12 @@ I'm currently diving deeper into:
 Feel free to reach out if you have any questions or just want to connect!
 
 ## 📊 [GitHub Stats]
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wgs45&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📊 [Language Stats]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45&layout=compact&theme=tokyonight)
 
 Thank you for visiting my profile! Have a great day! 😄
