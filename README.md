@@ -39,9 +39,9 @@ Latest blogpost(Coming soon):
 
 
 ## 📫 [Get in Touch]
-- **Email:** [-](...)
-- **LinkedIn:** [-](...)
-- **Twitter:** [-](...)
+- **Email:** [...](...)
+- **LinkedIn:** [...](...)
+- **Twitter:** [...](...)
 
 Feel free to reach out if you have any questions or just want to connect!
 
