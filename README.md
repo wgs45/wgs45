@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Web Development, DevOps and more to come. I love to explore new technologies and apply them to solve real-world problems.
 
 ## 🧬 [Experience & Tools]
-- **Languages:** HTML, CSS, Sass, Javascript, Python, C``
+- **Languages:** HTML, CSS, Sass, Javascript, Python, C
 - **Frameworks:** ReactJS, ReactNative, NodeJS, MongoDB, Firebase, MySql, Bootstrap, Material-UI, Arduino
 - **Scripting:** Bash, Powershell
 - **Tools:** Git, Neovim
