@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🧬 [Experience & Tools]
 ```c
-- Languages: "HTML, CSS, Sass, Javascript, Python, C"
-- Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI, Arduino"
-- Database: "MongoDB, Firebase, MySql"
-- Scripting: "Bash, Powershell, Shell"
-- Tools: "VsCode, Vercel, Git, Neovim, Tmux"
+- Languages: "HTML, CSS, Sass, Javascript, Python, C, C++, Java"
+- Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI"
+- Hardware Programming: "Arduino"
+- Database: "MongoDB, Firebase"
+- Scripting: "Bash, Powershell"
 ```
 <p align='left'>
   <img alt = "Iterm2" src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
