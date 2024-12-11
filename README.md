@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🧬 [Experience & Tools]
 ```c
 - Languages: "HTML, CSS, Sass, Javascript, Python, C, C++, Java"
-- Frameworks: "ReactJS, ReactNative, NodeJS, Bootstrap, Material-UI"
+- Frameworks: "React"
 - Hardware Programming: "Arduino"
 - Database: "MongoDB, Firebase"
 - Scripting: "Bash, Powershell"
