@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ Welcome to My Digital Atelier ✨  
 *~ An aspiring full-stack sorcerer crafting spells in code ~*
 
