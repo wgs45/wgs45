@@ -1,7 +1,5 @@
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wgs45.wgs45)
-
 # ✨ Welcome to My Digital Atelier ✨  
 *~ An aspiring full-stack sorcerer crafting spells in code ~*
 
