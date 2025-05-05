@@ -20,7 +20,7 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ---
 
-## 🎲 Unravel the quiet rhythm of my soul
+## 🎲 About Me
 - 🧑‍💻 Name: Warren
 - 🧬 Race: Human (rumored to be a reincarnated engineer...)  
 - 🎼 Class: Code Sorcerer / Night DJ  
