@@ -43,7 +43,7 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
 * ✨ *Enchanted Interfaces:* React
 * ✨ *Sacred Data Scrolls:* MongoDB, Firebase, MySQL
 * ✨ *Tinkering Relics:* Arduino
-* ✨ *Operating System:* MacOS, Linux, Windows
+* ✨ *Operating Systems:* MacOS, Linux, Windows
 
 ### 🖥️ Tech Stack
 
