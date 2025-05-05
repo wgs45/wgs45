@@ -20,12 +20,14 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ---
 
-## 🎲 About Me  
-- Name: Warren
-- Race: Human (possibly a reincarnated engineer?)
-- Class: Developer Apprentice
-- Alignment: Lawful Curious
-- Currently: Studying + Project Brewing + World Building
+🌟✨ 𝓐𝓷 𝓞𝓭𝓭 𝓛𝓸𝓻𝓮 𝓘𝓷 𝓒𝓸𝓭𝓮 & 𝓒𝓪𝓭𝓮𝓷𝓬𝓮 ✨🌟
+
+
+- 🧑‍💻 Name: Warren
+- 🧬 Race: Human (rumored to be a reincarnated engineer...)  
+- 🎼 Class: Code Sorcerer / Night DJ  
+- 📖 Alignment: Lawful Curious  
+- 🔮 Status: Studying 📝 | Project Brewing 🔧 | World Building 🌍
 
 ---
 
