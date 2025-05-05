@@ -20,7 +20,7 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ---
 
-## ✏️ About Me  
+## 🎲 About Me  
 - Name: Warren
 - Race: Human (possibly a reincarnated engineer?)
 - Class: Developer Apprentice
@@ -29,11 +29,11 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ---
 
-## 🛠️ Tools of My Trade
+## 🧬 Arcane Arsenal
 
 > *“Every mage has their wand... I have my terminal\~!”*
 
-### ⚔️ Programming Spells
+### 🧠 Sorcery Spells
 
 ```c
 Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
@@ -43,9 +43,9 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
 * ✨ *Enchanted Interfaces:* React
 * ✨ *Sacred Data Scrolls:* MongoDB, Firebase, MySQL
 * ✨ *Tinkering Relics:* Arduino
-* ✨ *Operating Systems:* MacOS, Linux, Windows
+* ✨ *Device Realms:* MacOS, Linux, Windows
 
-### 🖥️ Tech Stack
+### 📚 Runes
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp,cs,java,bash,powershell,mongodb,firebase,mysql,arduino)](https://skillicons.dev)
 
@@ -55,9 +55,9 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
 
 > *"A student never stops training..."*
 
-* Learning CI/CD incantations
 * Studying magical front-end patterns
 * Preparing for real-world project summoning
+* -
 
 ---
 
