@@ -3,7 +3,7 @@
 # ✨ Welcome to My Digital Atelier ✨  
 *~ An aspiring full-stack sorcerer crafting spells in code ~*
 
-![Banner](https://raw.githubusercontent.com/wgs45/wgs45/main/Images/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/wgs45/wgs45/main/Images/blade_runner.jpg)
 
 </div>
 
@@ -106,5 +106,5 @@ If you enjoy the vibes of this little atelier, please leave a ⭐ on my spellboo
 
 ---
 
-<div align="center"><sub>Art Credits: [Freepik - upklyak](https://www.freepik.com/author/upklyak)</sub></div>
+<div align="center"><sub>Art Credits: [wallhaven - AntiStar](https://wallhaven.cc/user/AntiStar)</sub></div>
 
