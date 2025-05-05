@@ -57,7 +57,6 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
 
 * Studying magical front-end patterns
 * Preparing for real-world project summoning
-* -
 
 ---
 
