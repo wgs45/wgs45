@@ -22,6 +22,7 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 - 🧑‍💻 Name: Warren
 - 🧬 Race: Human (rumored to be a reincarnated engineer...)  
 - 🎼 Class: Code Sorcerer / Night DJ  
+- 🪪 Joined: 2020
 - 📖 Alignment: Lawful Curious  
 - 🔮 Status: Studying 📝 | Project Brewing 🔧 | World Building 🌍
 
