@@ -21,11 +21,11 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 ---
 
 ## ✏️ About Me  
-Name: Warren
-Race: Human (possibly a reincarnated engineer?)
-Class: Developer Apprentice
-Alignment: Lawful Curious
-Currently: Studying + Project Brewing + World Building
+- Name: Warren
+- Race: Human (possibly a reincarnated engineer?)
+- Class: Developer Apprentice
+- Alignment: Lawful Curious
+- Currently: Studying + Project Brewing + World Building
 
 ---
 
