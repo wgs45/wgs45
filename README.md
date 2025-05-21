@@ -35,7 +35,7 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 ### 🧠 Sorcery Spells
 
 ```c
-Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
+Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java, Lua
 ```
 
 * ✨ *Script Rituals:* Bash, PowerShell
@@ -46,7 +46,7 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java
 
 ### 📚 Runes
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp,cs,java,bash,powershell,mongodb,firebase,mysql,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp,cs,java,lua,bash,powershell,mongodb,firebase,mysql,arduino)](https://skillicons.dev)
 
 ---
 
