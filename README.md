@@ -30,9 +30,9 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ## 🧬 Arcane Arsenal
 
-> *“Every mage has their wand... I have my terminal\~!”*
+> *“Spells are yet to be mastered\~!”*
 
-### 🧠 Sorcery Spells (Yet to be mastered)
+### 🧠 Sorcery Spells
 
 ```c
 Languages: HTML, CSS, JavaScript, Python, C, C++
@@ -45,32 +45,30 @@ Languages: HTML, CSS, JavaScript, Python, C, C++
 - ✨ **Tinkering Relics:** Arduino
 - ✨ **Device Realms:** MacOS, Linux, Windows
 
-### 📚 Runes
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp,cs,java,lua,bash,powershell,mongodb,firebase,mysql,arduino)](https://skillicons.dev)
-
 ---
 
 ## 📖 Current Quests
 
 > *"A student never stops training..."*
 
-* Exposure only - Seeking mastery: Lua, Java, C#, MySQL, NextJs, Docker
-* Studying magical front-end patterns
-* Preparing for real-world project summoning
+* 🚧 Learning: Lua, Java, C#, MySQL, NextJs, Docker
+* 🧵 Weaving: Advanced front-end enchantments & real-world spellcasting via personal projects
+* 🛠️ Gathering ingredients for upcoming magic builds~ (Projects... soon to hatch!)
 
 ---
 
 ## 🧪 Projects in the Cauldron
 
 > *Coming soon…*
-> The pot bubbles quietly… expect something mystical soon\~
+> A concoction of dreams, wires, and pixels—stay tuned for spellbinding showcases\~
 
 ---
 
 ## ✨ Blog & Lore
 
-> *(Under construction — little scrolls coming soon\~)*
+> *Tiny scrolls of wisdom are being hand-written as we speak~*
+
+Coming soon: Magical musings, coding tales, and soft reflections from this curious atelier 💭
 
 ---
 
