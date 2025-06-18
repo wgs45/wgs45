@@ -32,13 +32,12 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 > *“Every mage has their wand... I have my terminal\~!”*
 
-### 🧠 Sorcery Spells
+### 🧠 Sorcery Spells (Yet to be mastered)
 
 ```c
 Languages: HTML, CSS, JavaScript, Python, C, C++
 ```
 
-🔮 Arcane Languages Yet to Be Mastered
 - ✨ **Script Rituals:** Bash, PowerShell
 - ✨ **Enchanted Interfaces:** React
 - ✨ **Spellcrafting UI:** MUI, TailwindCSS, Bootstrap
@@ -56,7 +55,7 @@ Languages: HTML, CSS, JavaScript, Python, C, C++
 
 > *"A student never stops training..."*
 
-* Seeking Mastery: Lua, Java, C#, MySQL, NextJs, Docker
+* Exposure only - Seeking mastery: Lua, Java, C#, MySQL, NextJs, Docker
 * Studying magical front-end patterns
 * Preparing for real-world project summoning
 
