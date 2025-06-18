@@ -35,14 +35,16 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 ### 🧠 Sorcery Spells
 
 ```c
-Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java, Lua
+Languages: HTML, CSS, JavaScript, Python, C, C++
 ```
 
-* ✨ *Script Rituals:* Bash, PowerShell
-* ✨ *Enchanted Interfaces:* React
-* ✨ *Sacred Data Scrolls:* MongoDB, Firebase, MySQL
-* ✨ *Tinkering Relics:* Arduino
-* ✨ *Device Realms:* MacOS, Linux, Windows
+🔮 Arcane Languages Yet to Be Mastered
+- ✨ **Script Rituals:** Bash, PowerShell
+- ✨ **Enchanted Interfaces:** React
+- ✨ **Spellcrafting UI:** MUI, TailwindCSS, Bootstrap
+- ✨ **Sacred Data Scrolls:** MongoDB, Firebase
+- ✨ **Tinkering Relics:** Arduino
+- ✨ **Device Realms:** MacOS, Linux, Windows
 
 ### 📚 Runes
 
@@ -54,6 +56,7 @@ Languages: HTML, CSS, JavaScript, Python, C, C++, C#, Java, Lua
 
 > *"A student never stops training..."*
 
+* Seeking Mastery: Lua, Java, C#, MySQL, NextJs, Docker
 * Studying magical front-end patterns
 * Preparing for real-world project summoning
 
