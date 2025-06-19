@@ -30,17 +30,17 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 
 ## 🧬 Arcane Arsenal
 
-> *“Spells are yet to be mastered\~!”*
+> *“Arsenal are yet to be mastered\~!”*
 
 ### 🧠 Sorcery Spells
 
 ```c
-Languages: HTML, CSS, JavaScript, Python, C, C++
+Languages: HTML, CSS, JavaScript, Python, C, C++, Java
 ```
 
 - ✨ **Script Rituals:** Bash, PowerShell
 - ✨ **Enchanted Interfaces:** React
-- ✨ **Spellcrafting UI:** MUI, TailwindCSS, Bootstrap
+- ✨ **Spellcrafting UI:** MUI
 - ✨ **Sacred Data Scrolls:** MongoDB, Firebase
 - ✨ **Tinkering Relics:** Arduino
 - ✨ **Device Realms:** MacOS, Linux, Windows
@@ -51,7 +51,7 @@ Languages: HTML, CSS, JavaScript, Python, C, C++
 
 > *"A student never stops training..."*
 
-* 🚧 Learning: Lua, Java, C#, MySQL, NextJs, Docker
+* 🚧 Learning: Lua, C#, MySQL, NextJs, Docker, Tailwindcss
 * 🧵 Weaving: Advanced front-end enchantments & real-world spellcasting via personal projects
 * 🛠️ Gathering ingredients for upcoming magic builds~ (Projects... soon to hatch!)
 
