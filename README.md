@@ -38,7 +38,7 @@ Think of me as a gentle support mage in the world of tech, always learning and r
 Languages: HTML, CSS, JavaScript, Python, C, C++, Java
 ```
 
-- ✨ **Script Rituals:** Bash, PowerShell
+- ✨ **Script Rituals:** Bash, PowerShell (Basic Incantations)
 - ✨ **Enchanted Interfaces:** React
 - ✨ **Spellcrafting UI:** MUI
 - ✨ **Sacred Data Scrolls:** MongoDB, Firebase
