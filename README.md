@@ -1,109 +1,86 @@
 <div align="center">
 
-# ✨ Welcome to My Digital Atelier ✨  
-*~ An aspiring full-stack sorcerer crafting spells in code ~*
+# 💫 Warren 
 
-![Banner](https://raw.githubusercontent.com/wgs45/wgs45/main/Images/wandering_witch_elaina.jpeg)
+### 🚀 Full-Stack Developer | ⚙️ DevOps Engineer in Progress
 
-</div>
-
----
-
-## 🌸 Introduction  
-> *"Every keystroke holds a little bit of magic~"*
-
-Konnichiwa~! I’m **Warren**, a passionate student & digital dream-weaver!  
-I channel my creativity into **Web Development** and **DevOps**, turning ideas into living, breathing software~  
-Think of me as a gentle support mage in the world of tech, always learning and ready to cast some powerful code-spells!
-
----
-
-## 🎲 About Me
-- ❔ Name: Warren
-- 🧬 Race: Human (Rumored to be a reincarnated engineer...)  
-- 🎼 Class: Code Sorcerer / Night DJ  
-- 🪪 Joined: 2020
-- 📖 Alignment: Lawful Curious  
-- 🔮 Status: Studying 📝 | Project Brewing 🔧 | World Building 🌍
-
----
-
-## 🧬 Arcane Arsenal
-
-> *“Every mage has their wand... I have my terminal\~!”*
-
-### 🧠 Sorcery Spells
-
-```c
-Languages: HTML, CSS, JavaScript, Python, C, C++, Java
-```
-
-- ✨ **Script Rituals:** Powershell (Basics)
-- ✨ **Enchanted Interfaces:** React
-- ✨ **Spellcrafting UI:** MUI
-- ✨ **Sacred Data Scrolls:** MongoDB, Firebase, MySQL
-- ✨ **Tinkering Relics:** Arduino
-- ✨ **Device Realms:** MacOS, Linux, Windows
-
----
-
-## 📖 Current Quests
-
-> *"A student never stops training..."*
-
-* 🚧 Learning: -
-* 🧵 Weaving: Advanced front-end enchantments & real-world spellcasting via personal projects
-* 🛠️ Gathering ingredients for upcoming magic builds~ (Projects... soon to hatch!)
-
----
-
-## 🧪 Projects in the Cauldron
-
-> *Coming soon…*
-> A concoction of dreams, wires, and pixels—stay tuned for spellbinding showcases\~
-
----
-
-## ✨ Blog & Lore
-
-> *Tiny scrolls of wisdom are being hand-written as we speak~*
-
-Coming soon: Magical musings, coding tales, and soft reflections from this curious atelier 💭
-
----
-
-## 💌 Contact the Mage
-
-> *Want to summon me for a quest?*
-
-* **Email:** (Coming soon)
-* **LinkedIn / Twitter:** (Coming soon)
-  Let’s be guildmates in tech\~!
-
----
-
-## 📊 Magical Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgs45\&show_icons=true\&theme=tokyonight)
-
-![Trophy Case](https://github-profile-trophy.vercel.app/?username=wgs45\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45\&layout=compact\&theme=tokyonight)
+Designing scalable systems. Crafting clean interfaces. Automating everything.
 
 </div>
 
 ---
 
-## 🌸 A Sparkle of Thanks
+## 🧭 About Me
 
-If you’ve scrolled this far, you're officially a fellow adventurer\~
-If you enjoy the vibes of this little atelier, please leave a ⭐ on my spellbook\~!
+💡 CSIE student passionate about:
 
-> *"Even if I’m just a beginner now… one day, I’ll be a tech wizard that writes the future."*
-> - Unknown
+- 🌐 Modern Web Development
+- ☁️ DevOps & Cloud Infrastructure
+- 🏗 System Design & Automation
+
+I focus on building maintainable, production-ready applications with clean architecture.
 
 ---
 
-Art Credits: [steamcommunity - 夜莺Night](https://steamcommunity.com/sharedfiles/filedetails/?id=3302695207)
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+---
+
+### 🗄 Backend & Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### ⚙️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-blue?style=for-the-badge)
+
+---
+
+## 🎯 Current Focus
+
+- 🧱 Advanced Frontend Architecture
+- 🔌 RESTful API Design
+- 🐳 Containerization & Docker
+- 🔄 CI/CD & Deployment Workflows
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wgs45&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgs45&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+🔗 LinkedIn:
+📧 Email:
+
+Let's build something impactful.
