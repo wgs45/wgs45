@@ -61,7 +61,7 @@ Learning to build clean, maintainable, production-ready applications with a DevO
 ## 📌 Featured Projects
 
 ### ☁️ Scalable Todo List Web App
-high performance & Containerized (Docker) todo list app.<br>
+High performance & containerized (Docker) todo list app.<br>
 **Tech:** NextJs · FastAPI · PostgreSQL · Redis · Grafana · Prometheus<br>
 🔗 [Repository](https://github.com/wgs45/project_t)
 
