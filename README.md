@@ -60,6 +60,13 @@ Learning to build clean, maintainable, production-ready applications with a DevO
 
 ## 📌 Featured Projects
 
+### ☁️ Scalable Todo List Web App
+Scalable & high performance todo list app<br>
+**Tech:** NextJs · FastAPI & Uvicorn · PostgreSQL & Redis · Grafana & Prometheus<br>
+🔗 [Repository](https://github.com/wgs45/project_t)
+
+---
+
 ### 🚀 Online Ordering System
 Group based final project on Database course.<br>
 **Tech:** React · Node · MySQL<br>
@@ -71,13 +78,6 @@ Group based final project on Database course.<br>
 Redesign original website.<br> 
 **Tech:** React · Bootstrap<br>
 🔗 [Repository](https://github.com/wgs45/SmartOsc)
-
----
-
-### ☁️ Scalable Todo List Web App
-Scalable & high performance todo list app<br>
-**Tech:** NextJs · FastAPI & Uvicorn · PostgreSQL & Redis · Grafana & Prometheus<br>
-🔗 [Repository](https://github.com/wgs45/project_t)
 
 ---
 
