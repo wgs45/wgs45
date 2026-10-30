@@ -61,7 +61,7 @@ Learning to build clean, maintainable, production-ready applications with a DevO
 ## 📌 Featured Projects
 
 ### ☁️ Scalable Todo List Web App
-Scalable & high performance todo list app<br>
+Scalable & high performance todo list app.<br>
 **Tech:** NextJs · FastAPI & Uvicorn · PostgreSQL & Redis · Grafana & Prometheus<br>
 🔗 [Repository](https://github.com/wgs45/project_t)
 
