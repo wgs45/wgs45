@@ -74,10 +74,10 @@ Redesign original website.<br>
 
 ---
 
-### ☁️ Stance Analyzer
-Group based AI final project.<br>
-**Tech:** NextJs · Node · MongoDB · Python<br>
-🔗 [Private Repository](#)
+### ☁️ Scalable Todo List Web App
+Scalable todo list web app + DevOps tools.<br>
+**Tech:** NextJs · FastAPI & Uvicorn · PostgreSQL & Redis · Grafana & Prometheus<br>
+🔗 [Repository](https://github.com/wgs45/project_t)
 
 ---
 
