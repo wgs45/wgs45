@@ -75,7 +75,7 @@ Redesign original website.<br>
 ---
 
 ### ☁️ Scalable Todo List Web App
-Scalable todo list web app + DevOps tools.<br>
+Scalable & high performance todo list app<br>
 **Tech:** NextJs · FastAPI & Uvicorn · PostgreSQL & Redis · Grafana & Prometheus<br>
 🔗 [Repository](https://github.com/wgs45/project_t)
 
